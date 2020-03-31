@@ -1,0 +1,15 @@
+/* font-family: 'Spicy Rice', cursive; */
+body{
+    background-color: rgb(96, 79, 145);
+}
+h2,p,footer{
+    font-family: 'Spicy Rice', cursive;
+}
+
+div{
+    background-color: rgb(13, 3, 49);
+}
+button{
+    width: 200px;
+    height: 100px;
+}
